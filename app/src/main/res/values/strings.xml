@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="dialog_message">你确定要退出吗</string>
+    <string name="btn_show_dialog">show dialog</string>
+</resources>
